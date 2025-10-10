@@ -4,7 +4,7 @@
 
 Для анализа использовались SQL-запросы в PostgreSQL, а также был доработан и дополнен дашборд в DataLens.
 
-### [SQL-скрипт](https://github.com/starswhisper-data/projects/blob/main/Анализ%20данных%20для%20агентства%20недвижимости%20(SQL)/real_estate.sql)
+### [SQL-код](https://github.com/starswhisper-data/projects/blob/main/Анализ%20данных%20для%20агентства%20недвижимости%20(SQL)/real_estate.sql)
 
 ### [Ссылка на дашборд](https://datalens.yandex/vp2gx03og4kih)
 
