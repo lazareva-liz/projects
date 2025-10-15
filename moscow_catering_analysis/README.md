@@ -2,7 +2,8 @@
 
 **Цели и задачи проекта** - провести исследовательский анализ рынка общественного питания Москвы, помочь с выявлением места общественного питания, подходящего инвесторам.
 
-[Jupyter Notebook]()
+### [Jupyter Notebook](https://github.com/lazareva-liz/projects/blob/main/moscow_catering_analysis/catering_analysis.ipynb)
+
 ### Содержимое проекта
 
 1. Загрузка данных и знакомство с ними.
