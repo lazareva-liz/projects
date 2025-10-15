@@ -2,7 +2,7 @@
 
 **Автор: Лазарева Елизавета Сергеевна**
 
-## [Notebook](https://github.com/lazareva-liz/projects/blob/main/Исследование%20стартапов%20(Python)/Исследование%20стартапов.ipynb)
+## [Notebook](https://github.com/lazareva-liz/projects/blob/main/startups_analysis/startups_analysis.ipynb)
 
 ## Цели и задачи проекта
 **Цель**: Подготовить датасет и проверить, что данные в нём соответствуют здравому смыслу, а также ответить на вопросы заказчика как о предобработке, так и о значении данных для бизнеса.
