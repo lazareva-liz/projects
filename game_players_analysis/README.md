@@ -5,7 +5,7 @@
 
 Автор:  Лазарева Елизавета Сергеевна
 
-
+### [SQL-код](https://github.com/lazareva-liz/projects/blob/main/game_players_analysis/players_analysis.sql)
  # Выводы и аналитические комментарии
 ## 1. Результаты исследовательского анализа данных:
    
