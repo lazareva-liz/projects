@@ -96,5 +96,5 @@
 
 
 ## Ссылки
-*   [Полный Jupyter Notebook с кодом анализа](https://github.com/lazareva-liz/projects/blob/main/game_industry_analysis/games_analysis.ipynb)
+*   [Полный Jupyter Notebook с кодом анализа](https://github.com/lazareva-liz/projects/blob/main/game_industry_analysis/game_analysis.ipynb)
 
